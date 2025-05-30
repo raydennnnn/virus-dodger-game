@@ -39,5 +39,9 @@
 2. Download or clone this repository.
 3. Run the game using:
 
+## Contributors 
+1. Aditya Kumar Singh
+2. Mallidi V S Shankar Reddy 
+
 ```bash
 python virus_dodger.py
